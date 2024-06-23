@@ -13,7 +13,7 @@ DomainEnforcer is a Minecraft plugin designed to enforce player connections thro
 ## Installation
 
 1. **Download the Plugin:**
-   - Download the latest version of DomainEnforcer from the [releases page](https://github.com/yourusername/DomainEnforcer/releases).
+   - Download the latest version of DomainEnforcer from the [releases page](https://github.com/NightFury-Supreme/DomainEnforcer/releases).
 
 2. **Install the Plugin:**
    - Place the `DomainEnforcer.jar` file into the `plugins` directory of your Minecraft server.
@@ -89,7 +89,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Support
 
-For support, please create an issue on the [GitHub issues page](https://github.com/yourusername/DomainEnforcer/issues) or contact us on the Spigot forum thread.
+For support, please create an issue on the [GitHub issues page](https://github.com/NightFury-Supreme/DomainEnforcer/issues) or contact us on the Spigot forum thread.
 
 ---
 
