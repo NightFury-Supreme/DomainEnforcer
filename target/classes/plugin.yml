@@ -1,0 +1,13 @@
+name: DomainEnforcer
+main: com.pixelmine.domainenforcer.DomainEnforcer
+version: v1.0.0-SNAPSHOT
+api-version: 1.13
+commands:
+  domainenforcer:
+    description: Manage the DomainEnforcer plugin.
+    usage: /domainenforcer <reload|start|stop|help>
+    permission: domainenforcer.manage
+permissions:
+  domainenforcer.manage:
+    description: Allows managing the DomainEnforcer plugin.
+    default: op

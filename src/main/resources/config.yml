@@ -1,0 +1,22 @@
+# List of required domains players should use to connect add more domains as needed
+required-domains:
+  - 1.anotherdomain.com
+  - 2.anotherdomain.com
+
+# Message to display when a player connects using an IP address
+ip-warning-message:
+  - "---------------------------------------------"
+  - "&cYou have connected using an IP address."
+  - "&ePlease use one of the following domains to connect:"
+  - "&a- 1.anotherdomain.com"
+  - "&a- 2.anotherdomain.com"
+  - "---------------------------------------------"
+
+# Message to display when a player connects using an invalid domain
+invalid-domain-message:
+  - "---------------------------------------------"
+  - "&cYou have connected using an invalid domain."
+  - "&ePlease use one of the following domains to connect:"
+  - "&a- 1.anotherdomain.com"
+  - "&a- 2.anotherdomain.com"
+  - "---------------------------------------------"

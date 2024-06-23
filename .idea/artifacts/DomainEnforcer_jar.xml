@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="DomainEnforcer:jar">
+    <output-path>$USER_HOME$/Downloads</output-path>
+    <root id="archive" name="DomainEnforcer.jar">
+      <element id="module-output" name="DomainEnforcer" />
+    </root>
+  </artifact>
+</component>
